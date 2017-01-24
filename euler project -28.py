@@ -1,5 +1,3 @@
-total=0
-import math
 x=1
 y=0
 z=2
@@ -12,5 +10,3 @@ while x <=1002001:
     if y%4 == 0:
         z=z+2
 print a
-    
-    
